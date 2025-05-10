@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Le Anh Tuan. Student of University of Information Technology, VNUHCM
+- 👋 Hi, I’m Le Anh Tuan. Student of University of Information Technology (UIT), VNUHCM
 - 👀 I’m interested in playing football, listening to music and reading book. 
-- 🌱 I’m currently learning Computer Science.
+- 🌱 I’m currently learning  - Software Engineer.
 - Contact me at: 0977 821 240
-
+- My email : 23521711@gm.uit.edu.vn or Leanhtuanhust1112004@gmail.com
+- On my [YouTube channel](https://www.youtube.com/@LeAnhTuan-ib6ou), I showcase demo videos of my software projects, including apps, games, and tools I've built.
